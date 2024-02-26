@@ -1433,31 +1433,3 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.02.26-15.41.22:282][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.26-15.41.22:282][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.02.26-15.41.23:578][400]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2024.02.26-15.41.24:446][400]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.867960s
-[2024.02.26-15.41.25:059][400]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
-[2024.02.26-15.41.25:769][400]LogMeshUtilities: Finished distance field build in 1.0s - 21x21x21 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 320 triangles, Sphere_inversenormals
-[2024.02.26-15.41.27:707][400]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 3 triangles, Floor_Mesh
-[2024.02.26-15.41.28:659][400]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 7.101147s (5.101147s overbudget)
-[2024.02.26-15.41.29:215][400]LogViewport: Scene viewport resized to 1138x705, mode Windowed.
-[2024.02.26-15.41.29:587][400]LogAutomationController: Ignoring very large delta of 8.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2024.02.26-15.41.35:612][466]LogSlate: Window 'Cone' being destroyed
-[2024.02.26-15.41.35:666][466]LogSlate: Window 'Cone' being destroyed
-[2024.02.26-15.41.35:982][466]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
-[2024.02.26-15.41.35:982][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.02.26-15.42.27:907][368]Cmd: TRANSACTION UNDO
-[2024.02.26-15.42.27:907][368]LogEditorTransaction: Undo Rename Actor
-[2024.02.26-15.42.43:087][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.02.26-15.42.43:421][638]LogUObjectHash: Compacting FUObjectHashTables data took  20.28ms
-[2024.02.26-15.42.43:434][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
-[2024.02.26-15.42.43:446][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
-[2024.02.26-15.42.43:535][638]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY
-[2024.02.26-15.42.43:536][638]LogSavePackage: Moving 'C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Saved/DXUWD12MD3HRWVVXX076BYE6B4261B4C1B0D92DED1E6B270BF8414.tmp' to 'C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset'
-[2024.02.26-15.42.43:572][638]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
-[2024.02.26-15.42.43:573][638]LogSavePackage: Moving 'C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Saved/GK06JAEJ82TQ0GA2QB0DJGC73EB51740215D80A7DDE6B23FFB5CE7.tmp' to 'C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
-[2024.02.26-15.42.43:602][638]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RH/D0DGUXEGDDWNHFF7KT75HU
-[2024.02.26-15.42.43:602][638]LogSavePackage: Moving 'C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Saved/D0DGUXEGDDWNHFF7KT75HUE761233D4EC374D3267C90B38556783E.tmp' to 'C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RH/D0DGUXEGDDWNHFF7KT75HU.uasset'
-[2024.02.26-15.42.43:645][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 553 ms
-[2024.02.26-15.42.43:720][638]AssetCheck: New page: Asset Save: multiple assets
-[2024.02.26-15.42.43:720][638]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
-[2024.02.26-15.42.43:721][638]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
-[2024.02.26-15.42.43:721][638]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_704D7B3C40A80ADD01_2087861297
