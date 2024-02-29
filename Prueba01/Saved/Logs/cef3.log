@@ -1,20 +1,3 @@
-[0227/200228.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 343
-[0227/200228.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 345
-[0227/200228.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 347
-[0227/200228.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 349
-[0227/200228.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 351
-[0227/200228.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 353
-[0227/200228.369:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 355
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 357
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 359
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 361
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 363
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 365
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 367
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 369
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 371
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 373
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 375
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 377
-[0227/200228.370:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 379
-[0227/200241.116:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0229/163747.890:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[0229/163756.332:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0229/163948.843:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
