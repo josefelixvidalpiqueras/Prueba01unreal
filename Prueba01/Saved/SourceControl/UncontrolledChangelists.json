@@ -5,6 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/7U/XJMZVBZ1F9G0G92ZER79EB.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/MyBlueprint/BP_MyNewBlueprint.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/StarterContent/Props/SM_Couch.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/A6/5TV7O7WL5TH06L2UTU69RO.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YY/DTV1GUYP7OP9NBBRSCVZUR.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/12/42I2OYW8DJAOOWBEYM4915.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RA/M2IX6PPASQKV225WMVUKKM.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Maps/RunnerGameMap.umap",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Blueprints/BP_RunnerCharacter.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Blueprints/BP_RunnerGameMode.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Materials/BasicShapeMaterial.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Blueprints/BP_Item.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Widgets/UW_Coins.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Blueprints/BP_Obstacle.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Blueprints/BP_FinishLane.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Blueprints/UW_Win.uasset",
+				"C:/Users/ivan1/OneDrive/Desktop/Proyectos Unreal Engine/Prueba01/Content/RunnerGame/Materials/BasicShapeMaterial_Final.uasset",
+>>>>>>> 6a17385 (Completado tuto 10)
 				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba01unreal/Prueba01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
